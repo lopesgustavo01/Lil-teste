@@ -7,3 +7,9 @@
 body {
     background-color: black;
 }
+
+main{
+    padding: auto;
+    display: block;
+    background-color: blue;
+}
